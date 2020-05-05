@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "90185453871",
+    "firebase_url": "https://audiobook-untold.firebaseio.com",
+    "project_id": "audiobook-untold",
+    "storage_bucket": "audiobook-untold.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90185453871:android:a657cf179c028b92bb11da",
+        "android_client_info": {
+          "package_name": "com.example.course_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90185453871-bfttbkilndf7t7oudg771s73c03c9ai9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVE14Ua01UvyMlHvMhjpJQBm21pQemYT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90185453871-bfttbkilndf7t7oudg771s73c03c9ai9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
